@@ -150,7 +150,7 @@ span {
   padding-left: 0px;
   padding-right: 0px;
   width: 1600px;
-  outline: 1px solid greenyellow;
+  /* outline: 1px solid greenyellow; */
 }
 
 .hero-heading {
